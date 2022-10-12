@@ -1,16 +1,13 @@
-### Hi there 👋
+### Sup 😎
 
-<!--
-**kyleashburn/kyleashburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an information professional who graduated in May 2022 with my masters in Information Science from UNC Chapel Hill. I enjoy working on interesting information focused problems. For me, the most fun comes from problems that have to deal with both people and technology. While most of my projects involve data in some way, it's not a requirement that they have data for me to have fun with them. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a number of text and scraping focused data science projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I'm looking for roles that would allow me to solve interesting problems at the intersection of data and people. 
+
+📫 How to reach me ->  [LinkedIn](https://www.linkedin.com/in/kyle-ashburn/), 📧: kyle@ashburn.tech
+
+⚡ Fun fact(s): I'm a trained scuba diver 🤿, I like to bake 🧁 and make candy 🍬, and I can metalsmith jewelry 💍.  
+
+If you want to know more about me, you can look through my github profile, my [website](kyleashburn.tech), my [LinkedIn](https://www.linkedin.com/in/kyle-ashburn/), or even drop me a line. 
