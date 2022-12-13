@@ -10,4 +10,4 @@ I'm an information professional who graduated in May 2022 with my masters in Inf
 
 ⚡ Fun fact(s): I'm a trained scuba diver 🤿, I like to bake 🧁 and make candy 🍬, and I can metalsmith jewelry 💍.  
 
-If you want to know more about me, you can look through my github profile, my [website](kyleashburn.tech), my [LinkedIn](https://www.linkedin.com/in/kyle-ashburn/), or even drop me a line. 
+If you want to know more about me, you can look through my github profile, my [website](kyleashburn.tech), my [LinkedIn](https://www.linkedin.com/in/kyle-ashburn/), my [blog](https://kyleashburn.github.io/), or even drop me a line. 
